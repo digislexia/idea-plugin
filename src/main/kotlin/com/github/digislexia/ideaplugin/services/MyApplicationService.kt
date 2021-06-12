@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.digislexia.ideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.digislexia.ideaplugin.MyBundle
 
 class MyApplicationService {
 
